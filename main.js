@@ -1,3 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title> homework-3 </title>
+<meta charset="UTF-8">
+
+
+</head>
+
+
+<body>
+<scipt type="text/javascript">
+
+
 window.a = 5;
 alert( a );
 
@@ -13,3 +27,9 @@ function expTen() {
 function getFuncRes() {
 console.log("Hello world");
   }
+
+
+</body>
+
+
+</html>
